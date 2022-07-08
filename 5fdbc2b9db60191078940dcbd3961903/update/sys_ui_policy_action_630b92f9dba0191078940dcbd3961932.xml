@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>u_external_id</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>S46916</sys_created_by>
+        <sys_created_on>2022-07-08 10:12:36</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>630b92f9dba0191078940dcbd3961932</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_external_id</sys_name>
+        <sys_package display_value="POC - DevOps" source="x_ieon_poc_devops">5fdbc2b9db60191078940dcbd3961903</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="POC - DevOps">5fdbc2b9db60191078940dcbd3961903</sys_scope>
+        <sys_update_name>sys_ui_policy_action_630b92f9dba0191078940dcbd3961932</sys_update_name>
+        <sys_updated_by>S46916</sys_updated_by>
+        <sys_updated_on>2022-07-08 10:12:36</sys_updated_on>
+        <table>x_ieon_poc_devops_demo</table>
+        <ui_policy display_value="Make External Ticket ID read only">e3ca5eb9dba0191078940dcbd396196f</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
